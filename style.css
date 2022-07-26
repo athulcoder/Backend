@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   width: 800px;
+   margin: 0 auto;
+   text-align: center;
+   padding: 20px;
+    background-color:rgb(140, 140, 159);
+    height: 300px;
+}
+h2,h4{
+    padding: 10px;
+}
+form {
+    padding: 20px;
+
+    width: 95%;
+}
+input{
+    width: 210px;
+    height: 40px;
+    padding: 10px 5px;
+}
+.btnbox {
+    margin: auto;
+      margin-left: auto;
+    margin-left: 2px;
+    height: 120px;
+    position: relative;
+    top: 85px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: rgb(27, 48, 108);
+}
+
+
